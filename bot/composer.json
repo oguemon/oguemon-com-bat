@@ -1,0 +1,6 @@
+{
+  "license": "proprietary",
+  "require": {
+    "google/analytics-data": "0.16.2"
+  }
+}
