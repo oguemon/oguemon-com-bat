@@ -1,0 +1,6 @@
+.DS_Store
+vendor/
+api/constants.php
+bot/constants.php
+bot/ranking-*.json
+bot/service-account-key.json
